@@ -554,6 +554,9 @@ textarea.form-control {
     z-index: 1;
 }
 
+@media (min-width: 375px) {
+    #home{background-position: 70% 50%;}
+}
 .intro {
     position: absolute;
     width: 100%;
